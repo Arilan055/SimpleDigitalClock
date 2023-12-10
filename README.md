@@ -1,3 +1,1 @@
 # SimpleDigitalClock
-# SimpleDigitalClock
-# SimpleDigitalClock
